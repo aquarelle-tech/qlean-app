@@ -1,0 +1,146 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "name": "Matèria Orgànica",
+          "sessions": [
+            {
+              "name": "Bolsa #5as54d665ads56",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 pm",
+              "location": "Carrer de la Salut 32",
+              "tracks": ["Matèria Orgànica"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "name": "Plástic, Llaunes i Brics",
+          "sessions": [
+            {
+              "name": "Bolsa #5as54d665ads56",
+              "location": "Hall 1",
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 pm",
+              "tracks": ["Plástic, Llaunes i Brics"],
+              "id": "5"
+            },
+            {
+              "name": "Bolsa #5as54d665ads56",
+              "location": "Hall 3",
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 pm",
+              "tracks": ["Plástic, Llaunes i Brics"],
+              "id": "6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Sagrada Familia",
+      "profilePic": "assets/img/speakers/bear.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "github": "ionic-team/ionic",
+      "about": "20 Créditos Municipales",
+      "location": "Barcelona",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    },
+    {
+      "name": "Descuento en Cine AB",
+      "profilePic": "assets/img/speakers/cheetah.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "github": "ionic-team/ionic",
+      "about": "10 Créditos Municipales",
+      "location": "Everywhere",
+      "email": "charlie@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
+    },
+    {
+      "name": "Electrodomésticos A++",
+      "profilePic": "assets/img/speakers/duck.jpg",
+      "instagram": "ionicframework",
+      "twitter": "ionicframework",
+      "github": "ionic-team/ionic",
+      "about": "120 Créditos Municipales",
+      "location": "Everywhere",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Centro Reciclaje",
+      "lat": 41.3977487,
+      "lng": 2.1860399
+    },
+    {
+      "name": "Tienda ECO (Acepta Créditos Municipales)",
+      "lat": 41.3548865,
+      "lng": 2.1300568,
+      "center": true
+    },
+    {
+      "name": "Cine afiliado (Acepta Créditos Municipales)",
+      "lat": 41.3558865,
+      "lng": 2.1300550
+    }
+  ],
+
+  "tracks": [
+    {
+      "name": "Matèria Orgànica",
+      "icon": "leaf"
+    },
+    {
+      "name": "Plástic, Llaunes i Brics",
+      "icon": "color-fill"
+    },
+    {
+      "name": "Vidre",
+      "icon": "wine"
+    },
+    {
+      "name": "Paper i Cartró",
+      "icon": "document"
+    },
+    
+    {
+      "name": "Rebut",
+      "icon": "nuclear"
+    },
+    
+    {
+      "name": "Design",
+      "icon": "color-palette"
+    },
+    {
+      "name": "Services",
+      "icon": "cog"
+    },
+    {
+      "name": "Workshop",
+      "icon": "construct"
+    },
+    {
+      "name": "Communication",
+      "icon": "call"
+    },
+    {
+      "name": "Navigation",
+      "icon": "compass"
+    }
+  ]
+}
